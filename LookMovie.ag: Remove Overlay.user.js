@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Remove Overlay
+// @name        Remove Overlay from LookMovie
 // @namespace   AYScripts
 // @include     https://lookmovie.ag/*
 // @grant       none
